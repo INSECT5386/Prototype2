@@ -5,10 +5,10 @@
             "mera : 에 대항하여",
             "ata : 서로",
             "sel : 부정",
-            "ri : 존재",
+            "ca : 존재",
             "bor : 이동",
-            "tem : 생각",
-            "mun : 의무",
+            "tim : 생각",
+            "mon : 의무",
             "cer : 같음",
             "ya : -사동",
             "ta : -피동"
@@ -20,9 +20,9 @@
         "no": "(을 향해, 의 상태로/처럼)",
         "어순": "주어 동사 목적어 보어",
         "예문": {
-            "temri borta to temyari": "사람은 끌려간다 가르치는 존재에 의해",
-            "temtari certa no temyari": "가르침 받는 존재는 유사해진다 가르치는 존재처럼",
-            "temritari mun tem": "생각하는 만들어진 존재는 해야 한다 생각을"
+            "timca borta to timyaca": "사람은 끌려간다 가르치는 존재에 의해",
+            "timtaca certa no timyaca": "가르침 받는 존재는 유사해진다 가르치는 존재처럼",
+            "timcataca mon tim": "생각하는 만들어진 존재는 해야 한다 생각을"
         }
     }
 }
