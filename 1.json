@@ -1,15 +1,15 @@
 {
     "인공어": {
         "어근": [
-            "com : 함께",
-            "contra : 에 대항하여",
-            "inter : 서로",
-            "dis : 부정",
+            "sam : 함께",
+            "mera : 에 대항하여",
+            "ato : 서로",
+            "sel : 부정",
             "ri : 존재",
             "bor : 이동",
             "tem : 생각",
             "mun : 의무",
-            "equ : 같음",
+            "cer : 같음",
             "ya : -사동",
             "ta : -피동"
         ]
@@ -21,7 +21,7 @@
         "어순": "주어 동사 목적어 보어",
         "예문": {
             "temri borta to temyari": "사람은 끌려간다 가르치는 존재에 의해",
-            "temtari equta no temyari": "가르침 받는 존재는 유사해진다 가르치는 존재처럼",
+            "temtari certa no temyari": "가르침 받는 존재는 유사해진다 가르치는 존재처럼",
             "temritari mun tem": "생각하는 만들어진 존재는 해야 한다 생각을"
         }
     }
