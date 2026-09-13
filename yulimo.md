@@ -6,7 +6,7 @@
 * d-r-s : 삼키다
 * k-r-k : 있다, 살다
 * becrom : 지나온, 이전에
-* ricro : 지금 여기
+* n-b-k : 이-
 * manok : 많은, 큰
 * logaok : 먼, 멀리
 * crakus : 좋은
