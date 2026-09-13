@@ -8,10 +8,6 @@
 * k-r-k : 있다, 살다
 * becrom : 지나온, 이전에
 * ricro : 지금 여기
-* evo : 아마도
-* ando : 왜냐하면
-* ifo : 그러면
-* budo : 하지만
 * manok : 많은, 큰
 * logaok : 먼, 멀리
 * crakus : 좋은
@@ -27,3 +23,8 @@
 ===
 # 전치사
 * den : -동안, -하는 동안
+===
+* ebo : 아마도
+* ando : 왜냐하면
+* ibn : 그러면
+* budo : 하지만
