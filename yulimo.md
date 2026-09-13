@@ -5,11 +5,7 @@
 * b-s-d : 생각하다
 * d-r-s : 삼키다
 * k-r-k : 있다, 살다
-* becrom : 지나온, 이전에
 * n-b-k : 이-
-* manok : 많은, 큰
-* logaok : 먼, 멀리
-* crakus : 좋은
 ---
 # 굴절 접사
 * CiCaC : -하는 무언가, 누군가
@@ -29,3 +25,7 @@
 * udo : 하지만
 ---
 * beba : 나
+* manok : 많은, 큰
+* logaok : 먼, 멀리
+* crakus : 좋은
+* becrom : 지나온, 이전에
