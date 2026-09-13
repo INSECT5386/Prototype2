@@ -26,6 +26,5 @@
 ---
 * beba : 나
 * manok : 많은, 큰
-* logaok : 먼, 멀리
 * crakus : 좋은
 * becrom : 지나온, 이전에
