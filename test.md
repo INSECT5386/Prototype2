@@ -1,0 +1,6 @@
+상태 : 개체가 특정 상태나 장소에 위치함 (X is in Y)
+이동 : 개체가 공간 좌표를 이동함 (X moves to Y)
+CAUSE : 외부 작용이 개체의 상태나 이동을 유발함 (A causes B)
+CHANGE : 개체의 상태가 타깃 상태로 변함 (¬X→X)
+KNOW : 주체의 내면 공간에 데이터가 등록/처리됨 (S holds info I)
+WANT : 특정 상태/목표를 향한 벡터 형성 (S desires X)
