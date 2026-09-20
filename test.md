@@ -7,7 +7,7 @@
 ---
 **내부 접사**
 * uCaCCas : -하는 사상, 학문
-* eCuCeCa : -하게 만들려는 시도
+* eCuCeCa : -당하게 만들려는 시도
 * CiCaC : -하는 주체, 사물
 * CoCCim : -당하는 대상
 * CCaCali : -하는 곳, 때
