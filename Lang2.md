@@ -49,3 +49,7 @@
 * po : 나
 * ra : 너
 ---
+t, s, r, k, n, y
+a, e, i, o, u 
+VCVCVV
+CVCV
