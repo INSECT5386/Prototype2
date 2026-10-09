@@ -56,6 +56,10 @@
 * a kaka oin : 기계, 인공 장치
 * a kiso tota : 반려 동물
 ---
+#### 문형 구조
+* **긍정문** : Subject + Verb + ce + Object
+* **부정 서술문** : Subject + wa + Verb + ce + Object
+---
 * nai : 많은, 무거운
 * ran : 긴, 먼
 * ara : 큰, 넓은
