@@ -65,11 +65,3 @@
 * ao : 나
 * ra : 너
 ---
-#### 조어론 예제
-* 만들다 : kaka
-* 창조물 : a kaka
-* 창조자 : kaka a ranai
-* 먹다 : kai
-* 음식 : a kai
-* 동물 : kai a tota
-* 먹는 자 : kai a ranai
